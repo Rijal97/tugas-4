@@ -43,7 +43,7 @@ else:
     for row in result:
         print(row)
 
-**(PSEUDO CODE)**
+**PSEUDOOCODE**
 
 matriks A[3][3]
 matriks B[3][3]
